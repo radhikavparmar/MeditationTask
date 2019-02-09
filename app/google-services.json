@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1092725101131",
+    "firebase_url": "https://radhikameditationapp.firebaseio.com",
+    "project_id": "radhikameditationapp",
+    "storage_bucket": "radhikameditationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092725101131:android:3248b0279c820757",
+        "android_client_info": {
+          "package_name": "test.rvp.radhikameditationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092725101131-eoh1jf438irlcbg0pdqvcaum2t87vdi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.rvp.radhikameditationapp",
+            "certificate_hash": "2d08a1efc7e4e514e24edfae1f461c42bfa1704f"
+          }
+        },
+        {
+          "client_id": "1092725101131-0vb2cjlpjnvpltd679porcc6qolfm0h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQsnAw3Us7Gm3BqqZfsV0wYfeNBBjDuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092725101131-0vb2cjlpjnvpltd679porcc6qolfm0h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
